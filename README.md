@@ -7,7 +7,11 @@ We can surely finetune the models to suit our specific use case by either prompt
 
 How to use this repo to build your own chatbot ? 
 
---Clone this repo using ---> git clone repo-link
+
+
+!!--> 
+
+Clone this repo using ---> git clone repo-link
 
 Once cloned, move to the Api folder and run the following commands :
 

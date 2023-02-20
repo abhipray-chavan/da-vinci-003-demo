@@ -16,6 +16,8 @@ Clone this repo using ---> git clone repo-link
 Once cloned, move to the Api folder and run the following commands :
 
 1-> npm init
+
+
 2-> npm install cors body-parser openai express dotenv
 
 Now, Get your own Api key from : https://platform.openai.com/
